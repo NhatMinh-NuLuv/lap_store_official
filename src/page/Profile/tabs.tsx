@@ -37,7 +37,7 @@ const items: TabsProps["items"] = [
     children: (
       <>
         <div className="overeview">
-          <p className="text_profile_in">Lich su mua hang</p>
+          <p className="text_profile_in">Lich su mua Hang</p>
         </div>
       </>
     ),
